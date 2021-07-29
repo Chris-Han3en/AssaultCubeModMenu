@@ -12,7 +12,7 @@ Just compile the code using your prefered IDE and then run it and the menu shoul
 - Infinite Ammo
 - Infinite Thowables
 - Infinite Health
-- Infinite Armour
+- Infinite Armor
 - Save TP location
 - TP to saved location
 - Remove the time for weapons to wait before firing again
