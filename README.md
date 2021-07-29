@@ -22,3 +22,5 @@ Just compile the code using your prefered IDE and then run it and the menu shoul
 
 ## Mentions
 This was created by chris hansen#3106, however many thanks to everyone at [Guided Hacking](https://guidedhacking.com/) for their amazing resources which helped me understand what to do. Massive thanks to rake for posting informative resources and always being there to answer questions.
+
+### There is a pre compiled version for people who just want to use it. Just download the folders contents.
