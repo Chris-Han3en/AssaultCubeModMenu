@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AssaultCubeHacks/1.0.0": {
+        "dependencies": {
+          "Jupiter": "1.6.0"
+        },
+        "runtime": {
+          "AssaultCubeHacks.dll": {}
+        }
+      },
+      "Jupiter/1.6.0": {
+        "runtime": {
+          "lib/netstandard2.0/Jupiter.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssaultCubeHacks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jupiter/1.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FH8/qFaI3gF69FsGnzGmUOSTOjO9e8kdanSJu3Vh8YfauS+wJvY+wVtcRKqKMUmgsmde2Mw0+AgWKnG+A7zegQ==",
+      "path": "jupiter/1.6.0",
+      "hashPath": "jupiter.1.6.0.nupkg.sha512"
+    }
+  }
+}
