@@ -2,9 +2,9 @@
 
 ## About
 
-This is my first take on game modifications. Some of the code may not be the best in the world and I can see meultipul ways of cutting down large amounts of code which I might do in the future depending on my project plan.
+This is my first take on game modifications. Some of the code may not be the best in the world and I can see multipul ways of cutting down large amounts of code which I might do in the future depending on my project plan.
 
-This only works using version 1.2.0.1 due to the offsets changing in different versions however you could change all the offsets manually for each option and then it would work again.
+This only works using version 1.2.0.1 of assault cube which you can download [here](https://github.com/assaultcube/AC/releases/tag/v1.2.0.1) due to the offsets changing in different versions however you could change all the offsets manually for each option and then it would work again.
 
 Just compile the code using your prefered IDE and then run it and the menu should appear.
 
